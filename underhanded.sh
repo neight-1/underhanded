@@ -216,7 +216,7 @@ app_redir="https://bdo.to/u/abcdef"
 elif [ "$catchapp" -eq 8 ];then
 
 app="Telegram"
-app_redir="https://t.me/"
+app_redir="tg://"
 elif [ "$catchapp" -eq 9 ];then
 
 app="Netflix"
